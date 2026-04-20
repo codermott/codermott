@@ -1,65 +1,60 @@
 # Hey, I'm Chase 👋
 
-Front-end developer focused on building fast, clean, and user-friendly web experiences.
+Jr Front-end developer focused on building clean, responsive, and user-friendly web experiences.
 
-I enjoy taking ideas from nothing to something real. Whether it's debugging an existing system or building from scratch, I focus on solving problems, improving performance, and shipping working solutions.
+I enjoy taking ideas from concept to working product. I like solving problems, improving performance, and building things that are practical and easy to use.
 
 ---
 
 ## What I Do
 
-- Build responsive, modern front-end experiences using HTML, CSS, and JavaScript  
-- Improve site performance and SEO for large-scale ecommerce brands  
-- Create tools and interfaces that solve real workflow problems  
-- Continuously learn and apply new technologies to real projects  
+- Build responsive front-end projects with HTML, CSS, and JavaScript
+- Improve site performance and SEO for ecommerce brands
+- Create tools and interfaces that solve real workflow problems
+- Keep learning by building projects and applying new skills
 
-I bring a mix of **development + SEO + UX thinking**, which helps me build sites that not only look good, but also perform and convert.
+I bring a mix of development, SEO, and UX thinking, which helps me build websites that look good, work well, and support business goals.
 
 ---
 
 ## Featured Projects
 
-### 🛒 Dynamic Ecommerce Site (In Progress)
-- Multi-page site with dynamic PLP and PDP rendering  
-- Updates content based on user interaction  
-- Built with vanilla JavaScript, HTML, and CSS  
-- Focused on performance, structure, and scalability  
+### Shopping Cart + Checkout
+A front-end ecommerce practice project with cart logic, quantity updates, totals, and a fake checkout flow.
 
----
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=codermott&repo=shoppingcart)](https://github.com/codermott/shoppingcart)
 
-### 🔧 Redirect Management Tool
-- Built a UI using Python and Tkinter  
-- Upload, manage, and delete redirects via CSV  
-- Supports updates across multiple files and systems  
-- Designed to simplify and speed up SEO workflows  
+### Weather App
+A weather search app built with HTML, CSS, and JavaScript using API data and dynamic DOM updates.
 
----
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=codermott&repo=weatherapp)](https://github.com/codermott/weatherapp)
 
-### 📚 Learning & Practice
-- Completed multiple projects through Odin Project and freeCodeCamp  
-- Focused on strengthening core JavaScript and front-end fundamentals  
-- Emphasis on clean structure, responsiveness, and real-world patterns  
+### Library App
+A simple library tracker that lets users add books, search, update read status, and save data with localStorage.
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=codermott&repo=Library)](https://github.com/codermott/Library)
+
+### To-Do List App
+A task manager with filtering, completed states, and localStorage support.
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=codermott&repo=todolist)](https://github.com/codermott/todolist)
+
+### Calculator App
+A responsive calculator built to practice JavaScript fundamentals, DOM updates, and event handling.
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=codermott&repo=calculator)](https://github.com/codermott/calculator)
 
 ---
 
 ## Real-World Experience
 
 - Worked on and supported websites for:
-  - Bass Pro Shops  
-  - Cabela’s  
-  - Mack’s Prairie Wings  
-- Built and managed WordPress sites  
-- Led and supported SEO efforts across multiple ecommerce platforms  
-- Currently working with Drupal (1source.basspro.com) for content and platform improvements  
-
----
-
-## How I Work
-
-- I don’t stop at roadblocks. I figure out how to get around them  
-- If I don’t know something, I learn it and apply it immediately  
-- I focus on building things that work, then making them better  
-- I enjoy both fixing broken systems and creating new ones  
+  - Bass Pro Shops
+  - Cabela’s
+  - Mack’s Prairie Wings
+- Built and managed WordPress sites
+- Supported SEO efforts across multiple ecommerce platforms
+- Working with Drupal for content and platform improvements
 
 ---
 
@@ -78,7 +73,7 @@ I bring a mix of **development + SEO + UX thinking**, which helps me build sites
 ![Drupal](https://img.shields.io/badge/Drupal-0678BE?style=for-the-badge&logo=drupal&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-### Backend & Data (Supporting)
+### Backend & Data
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=mysql&logoColor=white)
 
@@ -86,22 +81,22 @@ I bring a mix of **development + SEO + UX thinking**, which helps me build sites
 
 ## Current Focus
 
-- Advancing JavaScript (DOM, architecture, scalability)  
-- Preparing for React and TypeScript  
-- Building more dynamic, interactive UI experiences  
-- Improving performance, accessibility, and SEO  
+- Strengthening JavaScript fundamentals
+- Building more dynamic front-end projects
+- Preparing for React and TypeScript
+- Improving performance, accessibility, and SEO
 
 ---
 
 ## Outside of Code
 
-- Hiking, fishing, and camping  
-- Board games and strategy games  
-- Anything that involves building or problem solving  
+- Hiking, fishing, and camping
+- Board games and strategy games
+- Building and problem solving
 
 ---
 
 ## Portfolio
 
 Check out my work:  
-👉 https://codermott.github.io/portfolio/
+[Portfolio Website](https://codermott.github.io/portfolio/)
