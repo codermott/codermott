@@ -1,87 +1,91 @@
-# Hey, I'm Chase 👋
+# Hey, I'm Chase
 
-Jr Front-end developer focused on building clean, responsive, and user-friendly web experiences.
+Front-end developer with ecommerce and SEO experience, focused on building clean, responsive, and high-performing web experiences.
 
-I enjoy taking ideas from concept to working product. I like solving problems, improving performance, and building things that are practical and easy to use.
+Portfolio: https://codermott.github.io/portfolio/
 
 ---
 
-## What I Do
+## About Me
 
-- Build responsive front-end projects with HTML, CSS, and JavaScript  
-- Improve site performance and SEO for ecommerce brands  
-- Create tools and interfaces that solve real workflow problems  
-- Keep learning by building projects and applying new skills  
+I build practical front-end applications using HTML, CSS, and JavaScript, with a focus on usability, performance, and real-world functionality.
 
-I bring a mix of development, SEO, and UX thinking, which helps me build websites that look good, work well, and support business goals.
+My background in SEO and ecommerce platforms allows me to approach development with a strong understanding of how sites perform in production environments.
 
 ---
 
 ## Featured Projects
 
-### 🛒 Shopping Cart + Checkout  
-Front-end ecommerce experience with cart logic, totals, and a checkout flow.
+### Shopping Cart + Checkout  
+Front-end ecommerce experience with cart logic, quantity updates, totals, and a checkout flow.
 
-- 🔗 Live Demo: https://codermott.github.io/shoppingcart/  
-- 💻 Code: https://github.com/codermott/shoppingcart  
+Live Demo: https://codermott.github.io/shoppingcart/  
+Code: https://github.com/codermott/shoppingcart  
 
-[![Repo](https://github-readme-stats.vercel.app/api/pin/?username=codermott&repo=shoppingcart)](https://github.com/codermott/shoppingcart)
-
----
-
-### 🌦️ Weather App  
-Search for a city and view real-time weather data using an API.
-
-- 🔗 Live Demo: https://codermott.github.io/weatherapp/  
-- 💻 Code: https://github.com/codermott/weatherapp  
-
-[![Repo](https://github-readme-stats.vercel.app/api/pin/?username=codermott&repo=weatherapp)](https://github.com/codermott/weatherapp)
+[![Repo](https://github-readme-stats.vercel.app/api/pin/?username=codermott&repo=shoppingcart&v=1)](https://github.com/codermott/shoppingcart)
 
 ---
 
-### 📚 Library App  
-Track and manage books with search and localStorage.
+### Weather App  
+Fetches real-time weather data from an API and displays it dynamically based on user input.
 
-- 🔗 Live Demo: https://codermott.github.io/Library/  
-- 💻 Code: https://github.com/codermott/Library  
+Live Demo: https://codermott.github.io/weatherapp/  
+Code: https://github.com/codermott/weatherapp  
 
-[![Repo](https://github-readme-stats.vercel.app/api/pin/?username=codermott&repo=Library)](https://github.com/codermott/Library)
-
----
-
-### ✅ To-Do List App  
-Task manager with filtering and saved state.
-
-- 🔗 Live Demo: https://codermott.github.io/todolist/  
-- 💻 Code: https://github.com/codermott/todolist  
-
-[![Repo](https://github-readme-stats.vercel.app/api/pin/?username=codermott&repo=todolist)](https://github.com/codermott/todolist)
+[![Repo](https://github-readme-stats.vercel.app/api/pin/?username=codermott&repo=weatherapp&v=1)](https://github.com/codermott/weatherapp)
 
 ---
 
-### 🧮 Calculator  
-Responsive calculator built to practice JavaScript fundamentals.
+### Library App  
+Book tracking application with search, read status, and persistent storage.
 
-- 🔗 Live Demo: https://codermott.github.io/calculator/  
-- 💻 Code: https://github.com/codermott/calculator  
+Live Demo: https://codermott.github.io/Library/  
+Code: https://github.com/codermott/Library  
 
-[![Repo](https://github-readme-stats.vercel.app/api/pin/?username=codermott&repo=calculator)](https://github.com/codermott/calculator)
+[![Repo](https://github-readme-stats.vercel.app/api/pin/?username=codermott&repo=Library&v=1)](https://github.com/codermott/Library)
 
 ---
 
-## Real-World Experience
+### To-Do List App  
+Task manager with filtering, completion tracking, and saved state.
 
-- Worked on and supported websites for:
+Live Demo: https://codermott.github.io/todolist/  
+Code: https://github.com/codermott/todolist  
+
+[![Repo](https://github-readme-stats.vercel.app/api/pin/?username=codermott&repo=todolist&v=1)](https://github.com/codermott/todolist)
+
+---
+
+### Calculator  
+Responsive calculator built to practice core JavaScript and DOM interaction.
+
+Live Demo: https://codermott.github.io/calculator/  
+Code: https://github.com/codermott/calculator  
+
+[![Repo](https://github-readme-stats.vercel.app/api/pin/?username=codermott&repo=calculator&v=1)](https://github.com/codermott/calculator)
+
+---
+
+## Professional Experience
+
+- Supported and improved ecommerce platforms for:
   - Bass Pro Shops  
   - Cabela’s  
   - Mack’s Prairie Wings  
-- Built and managed WordPress sites  
-- Supported SEO efforts across multiple ecommerce platforms  
-- Working with Drupal for content and platform improvements  
+
+- Experience working with:
+  - WebSphere Commerce (HCL Commerce)  
+  - WordPress  
+  - Drupal  
+
+- Contributed to:
+  - SEO strategy and implementation  
+  - site performance improvements  
+  - content and platform updates across large-scale ecommerce sites  
 
 ---
 
-## Tech Stack
+## Technical Skills
 
 ### Front-End
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -94,6 +98,7 @@ Responsive calculator built to practice JavaScript fundamentals.
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 ![Drupal](https://img.shields.io/badge/Drupal-0678BE?style=for-the-badge&logo=drupal&logoColor=white)
+![WebSphere Commerce](https://img.shields.io/badge/WebSphere%20Commerce-FF6F00?style=for-the-badge)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ### Backend & Data
@@ -104,21 +109,15 @@ Responsive calculator built to practice JavaScript fundamentals.
 
 ## Current Focus
 
-- Strengthening JavaScript fundamentals  
-- Building more dynamic front-end projects  
-- Preparing for React and TypeScript  
-- Improving performance, accessibility, and SEO  
+- Strengthening JavaScript fundamentals and application structure  
+- Building more dynamic front-end applications  
+- Preparing for React and modern frameworks  
+- Improving performance, accessibility, and maintainability  
 
 ---
 
-## Outside of Code
+## Outside of Work
 
 - Hiking, fishing, and camping  
-- Board games and strategy games  
+- Strategy and board games  
 - Building and problem solving  
-
----
-
-## Portfolio
-
-👉 https://codermott.github.io/portfolio/
