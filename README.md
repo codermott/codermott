@@ -68,7 +68,7 @@ Code: https://github.com/codermott/calculator
 
 ## Professional Experience
 
-- Supported and improved ecommerce platforms for:
+- SEO experience supporting ecommerce brands including:
   - Bass Pro Shops  
   - Cabela’s  
   - Mack’s Prairie Wings  
@@ -80,8 +80,8 @@ Code: https://github.com/codermott/calculator
 
 - Contributed to:
   - SEO strategy and implementation  
-  - site performance improvements  
-  - content and platform updates across large-scale ecommerce sites  
+  - site performance recommendations  
+  - content and platform updates across ecommerce environments  
 
 ---
 
