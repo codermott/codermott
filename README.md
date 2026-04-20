@@ -8,10 +8,10 @@ I enjoy taking ideas from concept to working product. I like solving problems, i
 
 ## What I Do
 
-- Build responsive front-end projects with HTML, CSS, and JavaScript
-- Improve site performance and SEO for ecommerce brands
-- Create tools and interfaces that solve real workflow problems
-- Keep learning by building projects and applying new skills
+- Build responsive front-end projects with HTML, CSS, and JavaScript  
+- Improve site performance and SEO for ecommerce brands  
+- Create tools and interfaces that solve real workflow problems  
+- Keep learning by building projects and applying new skills  
 
 I bring a mix of development, SEO, and UX thinking, which helps me build websites that look good, work well, and support business goals.
 
@@ -19,42 +19,65 @@ I bring a mix of development, SEO, and UX thinking, which helps me build website
 
 ## Featured Projects
 
-### Shopping Cart + Checkout
-A front-end ecommerce practice project with cart logic, quantity updates, totals, and a fake checkout flow.
+### 🛒 Shopping Cart + Checkout  
+Front-end ecommerce experience with cart logic, totals, and a checkout flow.
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=codermott&repo=shoppingcart)](https://github.com/codermott/shoppingcart)
+- 🔗 Live Demo: https://codermott.github.io/shoppingcart/  
+- 💻 Code: https://github.com/codermott/shoppingcart  
 
-### Weather App
-A weather search app built with HTML, CSS, and JavaScript using API data and dynamic DOM updates.
+[![Repo](https://github-readme-stats.vercel.app/api/pin/?username=codermott&repo=shoppingcart)](https://github.com/codermott/shoppingcart)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=codermott&repo=weatherapp)](https://github.com/codermott/weatherapp)
+---
 
-### Library App
-A simple library tracker that lets users add books, search, update read status, and save data with localStorage.
+### 🌦️ Weather App  
+Search for a city and view real-time weather data using an API.
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=codermott&repo=Library)](https://github.com/codermott/Library)
+- 🔗 Live Demo: https://codermott.github.io/weatherapp/  
+- 💻 Code: https://github.com/codermott/weatherapp  
 
-### To-Do List App
-A task manager with filtering, completed states, and localStorage support.
+[![Repo](https://github-readme-stats.vercel.app/api/pin/?username=codermott&repo=weatherapp)](https://github.com/codermott/weatherapp)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=codermott&repo=todolist)](https://github.com/codermott/todolist)
+---
 
-### Calculator App
-A responsive calculator built to practice JavaScript fundamentals, DOM updates, and event handling.
+### 📚 Library App  
+Track and manage books with search and localStorage.
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=codermott&repo=calculator)](https://github.com/codermott/calculator)
+- 🔗 Live Demo: https://codermott.github.io/Library/  
+- 💻 Code: https://github.com/codermott/Library  
+
+[![Repo](https://github-readme-stats.vercel.app/api/pin/?username=codermott&repo=Library)](https://github.com/codermott/Library)
+
+---
+
+### ✅ To-Do List App  
+Task manager with filtering and saved state.
+
+- 🔗 Live Demo: https://codermott.github.io/todolist/  
+- 💻 Code: https://github.com/codermott/todolist  
+
+[![Repo](https://github-readme-stats.vercel.app/api/pin/?username=codermott&repo=todolist)](https://github.com/codermott/todolist)
+
+---
+
+### 🧮 Calculator  
+Responsive calculator built to practice JavaScript fundamentals.
+
+- 🔗 Live Demo: https://codermott.github.io/calculator/  
+- 💻 Code: https://github.com/codermott/calculator  
+
+[![Repo](https://github-readme-stats.vercel.app/api/pin/?username=codermott&repo=calculator)](https://github.com/codermott/calculator)
 
 ---
 
 ## Real-World Experience
 
 - Worked on and supported websites for:
-  - Bass Pro Shops
-  - Cabela’s
-  - Mack’s Prairie Wings
-- Built and managed WordPress sites
-- Supported SEO efforts across multiple ecommerce platforms
-- Working with Drupal for content and platform improvements
+  - Bass Pro Shops  
+  - Cabela’s  
+  - Mack’s Prairie Wings  
+- Built and managed WordPress sites  
+- Supported SEO efforts across multiple ecommerce platforms  
+- Working with Drupal for content and platform improvements  
 
 ---
 
@@ -81,22 +104,21 @@ A responsive calculator built to practice JavaScript fundamentals, DOM updates, 
 
 ## Current Focus
 
-- Strengthening JavaScript fundamentals
-- Building more dynamic front-end projects
-- Preparing for React and TypeScript
-- Improving performance, accessibility, and SEO
+- Strengthening JavaScript fundamentals  
+- Building more dynamic front-end projects  
+- Preparing for React and TypeScript  
+- Improving performance, accessibility, and SEO  
 
 ---
 
 ## Outside of Code
 
-- Hiking, fishing, and camping
-- Board games and strategy games
-- Building and problem solving
+- Hiking, fishing, and camping  
+- Board games and strategy games  
+- Building and problem solving  
 
 ---
 
 ## Portfolio
 
-Check out my work:  
-[Portfolio Website](https://codermott.github.io/portfolio/)
+👉 https://codermott.github.io/portfolio/
