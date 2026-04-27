@@ -2,7 +2,7 @@
 
 Front-end developer with ecommerce and SEO experience, focused on building clean, responsive, and high-performing web experiences.
 
-Portfolio: https://codermott.github.io/portfolio/
+Portfolio: [https://codermott.github.io/portfolio/](https://codermott.github.io/portfolio/)
 
 ---
 
